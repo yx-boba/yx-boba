@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🧠 I am a 4th year psychology Ph.D. candidate concentraing on Developmental Cognitive Neuroscience.
+- 😼 I am passionate about leveraging data-driven insights and human-centered research to solve complex problems, particularly at the intersection of psychology and technology.
 
 <!--
 **yx-boba/yx-boba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
